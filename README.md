@@ -1,4 +1,4 @@
 vxlite
 ======
 
-vxlite root
+vxlite is created
