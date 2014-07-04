@@ -1,0 +1,5 @@
+
+#define _WRS_CONFIG_HEAP_SIZE    0x200000
+
+#define _WRS_CONFIG_HEAP_SIZE_ARCH    0x200000
+#define _WRS_CONFIG_BSP    k70
